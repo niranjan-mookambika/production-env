@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Vendormate production environment
+name: production-env
+version: "0.1.0"
